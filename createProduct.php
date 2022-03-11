@@ -6,5 +6,5 @@
 
                    return $product;
 		}
-
+	echo "new Change";
         }
